@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This is just a weather app that can be used to check for temperature, relative humdity of a city
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
